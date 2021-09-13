@@ -1,0 +1,42 @@
+body{
+    color: #333;
+    text-align: center;
+    margin: 0;
+    font-family: arial;
+}
+
+#main{
+    background-color: #eee;
+    border-radius: 5px;
+    padding: 2rem 0;
+}
+img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+#img-div{
+    background-color: #fff;
+    padding: 10px;
+}
+figcaption{
+    padding: 1rem;
+}
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+  li {
+    margin: 16px 0;
+  }
+  
+  blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
